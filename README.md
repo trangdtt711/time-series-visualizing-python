@@ -24,3 +24,9 @@ This project demonstrates how to explore and visualize time series data using Py
 Data Camp Course "Visualizing Time Series Data in Python"
 
 ## Examples
+![Employment Data](images/Employment_Data.png)
+
+![ACF and PACF](images/ACF_and_PACF.png)
+
+![Decomposition](images/Decomposition.png)
+
