@@ -18,10 +18,12 @@ This project demonstrates how to explore and visualize time series data using Py
 - statsmodels
   
 ## File
-- `Time_Series_Visualizing_in_Python.ipynb`: main notebook for the project
+- `Time_Series_Visualizing_in_Python.ipynb` and
+  `Time_Series_Visualizing_in_Python_part_2.ipynb`: main notebooks for the project
 
 ## Reference
 Data Camp Course "Visualizing Time Series Data in Python"
+Data Camp Course "Machine Learning for Time Series Data in Python"
 
 ## Examples
 ![Employment Data](images/Employment_Data.png)
@@ -30,3 +32,8 @@ Data Camp Course "Visualizing Time Series Data in Python"
 
 ![Decomposition](images/Decomposition.png)
 
+![Price Data](images/Price_Data.png)
+
+![Predicted_Price](images/Predicted_Price.png)
+
+![Oulier_Processing](images/Outlier_Processing.png)
